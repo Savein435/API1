@@ -54,4 +54,10 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.13.0</version>
             <configuration>
-                <source>15</source> <!-- Change 
+                <source>15</source> <!-- Change to 15 or higher depending on your Java version -->
+                <target>15</target> <!-- Change to 15 or higher depending on your Java version -->
+            </configuration>
+        </plugin>
+    </plugins>
+  </build>
+</project>
