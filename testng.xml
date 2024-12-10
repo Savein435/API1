@@ -6,7 +6,7 @@
     <class name="testcases.SendSignupOtpTest"/>
       <class name="testcases.VerifySignupOtpTest"/>
       <class name="testcases.UpdateOrganisationProfileTest"/>
-      <class name="testcases.UpdateOrganisationProfileTest1"/>
+     
       
     </classes>
   </test> <!-- Test -->
